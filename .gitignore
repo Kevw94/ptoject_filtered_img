@@ -5,6 +5,8 @@
 
 ## personnal dataSources
 Data/
+output
+.vscode/
 
 ### Django ###
 *.log
